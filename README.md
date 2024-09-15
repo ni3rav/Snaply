@@ -1,6 +1,6 @@
 # Snaply
 Our project helps Photographers to get an individual and more interactive platform to showcase their work and reach like-minded people for connections and building a community.
-
+``` text
 /snaply-project
 │
 ├── backend
@@ -65,3 +65,4 @@ Our project helps Photographers to get an individual and more interactive platfo
 │
 ├── .gitignore
 └── README.md 
+```
